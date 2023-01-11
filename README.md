@@ -13,7 +13,7 @@
 - 📫 How to reach me: **azizbek.abdimavlonov@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left"> <a href="https://desktop.telegram.org">Telegram</a
+<p align="left"> <a href="https://desktop.telegram.org" target="_blank">Telegram</a
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
